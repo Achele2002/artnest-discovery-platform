@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/artnest-marketplace.clar"
 depends_on = []
 
+[contracts.artnest-nft]
+path = "contracts/artnest-nft.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
